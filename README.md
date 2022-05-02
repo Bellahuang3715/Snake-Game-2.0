@@ -2,7 +2,7 @@
 The snake moves around the screen, picking up fruits. Three fruits are shown on the screen at every point in time. When the snake eats one fruit, an additional point is added to the user’s score. When the snake hits the borders or its own tail, game over.
 
 # How to Play
-1. Download the files into one folder and open it in the Monitor Program OR open the file snakeGame_CPUlator.c on https://cpulator.01xz.net/?sys=arm-de1soc and select 'C' as the language <br /> 
+1. Download the files into one folder and open it in the Monitor Program OR open the file snakeGame_CPUlator.c on https://cpulator.01xz.net/?sys=arm-de1soc and select 'C' as the language <br /> <br />
 2. Compile and load the program on Monitor Program / CPUlator <br />
 3. Select a game mode using the switches on the DE1-SoC board <br />
    (a) SW[3] = Default, SW[4] = Easy, SW[5] = Hard <br />
