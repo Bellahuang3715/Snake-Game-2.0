@@ -11,3 +11,5 @@ The snake moves around the screen, picking up fruits. Three fruits are shown on 
 5. Use the pushbuttons on the DE1-SoC board or keyboard arrows to control the movement of the snake <br />
    (a) KEY[0] = Up, KEY[1] = Down, KEY[3] = Left, KEY[3] = Right <br /> <br />
 6. Once the game is over, hit SW[1] to restart the game <br />
+
+![snake](https://user-images.githubusercontent.com/98608943/166172770-46a4b426-7d55-4104-91fc-6fad9c0b96d1.jpg)
